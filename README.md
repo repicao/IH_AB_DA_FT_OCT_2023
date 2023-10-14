@@ -157,15 +157,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Jupyter_Notebook/Labs/Lab_Juypter_Notebook.md">[LAB] Jupyter Notebook</a>
-<p>
 <br>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1B0luhf2eWFIMaofY1mm2oT5jBZlg7RydRpV5wR1KwgQ/edit?usp=sharing">[Presentation] Conda</a>
 <p>
 <br>
-<p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Conda/Activities/Conda_Activity_Environments.md">[Activity] Conda Environment</a>
 <p>
 <br>
 <p>
@@ -223,8 +219,6 @@ It is Friday!! 🥳😎✌️
 <a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Numpy/Numpy.ipynb">[Notebook] Numpy Arrays</a>
 <p>
 <br>
-<p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Numpy/Labs/Lab_Numpy_exercises_with_hints.md">[Lab] Numpy Arrays</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/14eFigQn9W98c3-KMQKOrGCZfEp15p-8sEGKRVR_V_K0/edit?usp=sharing">[Presentation] Python Map</a>
 <p>
@@ -240,7 +234,6 @@ It is Friday!! 🥳😎✌️
 <p>
 Weekly Retro
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/tree/main/Class_Materials/Pandas/Labs/Lab_Pandas_part_1.ipynb">[Lab] Pandas Exercises</a>
    </td>
   </tr>
 </table>

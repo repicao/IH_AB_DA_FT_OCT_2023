@@ -139,18 +139,13 @@ It is Friday!! 🥳😎✌️
    <td><a href="https://docs.google.com/presentation/d/1Kg4LAjE1oDtG-FLdQSaR1hecYwiMX_5-jP9tt7QHlIU/edit?usp=sharing">[Presentation] Intro</a>
 <p>
 <br>
-<p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Command_Line/Activities/Activity_Command_Line.md">[Activity] Command Line</a>
+
 <p>
 <a href="https://docs.google.com/presentation/d/1dFYafjz3IV5pCaH-nNIeWKVeAjwfmhFn47S9ZrxE2pg/edit?usp=sharing">[Presentation] Git</a>
 <p>
 <a href="https://docs.google.com/presentation/d/1aun46umuf1hrXn5SfzzpvPNurrHeu3pODn1Jpm8_27o/edit?usp=sharing">[Presentation] Jupyter Notebooks</a>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Command_Line/Cheat_Sheet_MAC_Command_Line.pdf">[Cheat Sheet] Mac Command</a>
-<p>
 <br>
-<p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Command_Line/Cheat_Sheet_Windows_Command_Prompt.pdf">[Cheat Sheet] Windows Command Line</a>
 <p>
 <br>
 <p>
@@ -160,15 +155,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Jupyter_Notebook/Cheat_Sheet_Markdown.md">[Cheat sheet] Markdown Cheat Sheet</a>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Git_GitHub/Labs/Lab_Git.md">[LAB] Git</a>
-<p>
 <br>
 <p>
 <a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Jupyter_Notebook/Labs/Lab_Juypter_Notebook.md">[LAB] Jupyter Notebook</a>
 <p>
 <br>
-<p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Command_Line/Labs/Lab_Bash.md">[LAB] (Optional) Bash</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1B0luhf2eWFIMaofY1mm2oT5jBZlg7RydRpV5wR1KwgQ/edit?usp=sharing">[Presentation] Conda</a>
 <p>

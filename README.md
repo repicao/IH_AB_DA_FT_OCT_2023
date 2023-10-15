@@ -212,7 +212,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/14eFigQn9W98c3-KMQKOrGCZfEp15p-8sEGKRVR_V_K0/edit?usp=sharing">[Presentation] Python Map</a>
+   <td>
 <p>
 <br>
 <p>

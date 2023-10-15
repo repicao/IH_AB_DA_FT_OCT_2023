@@ -155,6 +155,8 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Jupyter_Notebook/Cheat_Sheet_Markdown.md">[Cheat sheet] Markdown Cheat Sheet</a>
 <p>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Python_Basics/1.1_data_structures.ipynb">[Notebook] Python Built-In Data Structures</a>
+<p>
 <br>
 <p><a href="https://github.com/data-bootcamp-v4/lab-python-data-structures">[Lab] Python Built-In Data Structures</a>
 </p>

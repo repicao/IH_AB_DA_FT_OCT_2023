@@ -36,7 +36,7 @@
   <tr>
    <td>Warm up
    </td>
-   <td>Lab Review/Lecture
+   <td>Lab Review
    </td>
    <td>10 mins Break
    </td>
@@ -44,7 +44,7 @@
    </td>
    <td>10 mins Break
    </td>
-   <td>Lab
+   <td>Lecture
    </td>
    <td>Lunch Break
    </td>
@@ -68,9 +68,7 @@
 <strong>Week 1 | Day5 Key Objectives:</strong>
 <ul>
 
-<li>Map function
-
-<li>Intro to Pandas.
+<li>Intro to OOP
 
 <li>Weekly Recap
 
@@ -78,33 +76,25 @@
 <strong>Week 1 | Day4 Key Objectives:</strong>
 <ul>
 
-<li>Programming Tips and coding efficiency.
+<li>Error handling
 
-<li>Lambda functions.
-
-<li>Data Analysis Intro and Process
-
-<li>Numpy Arrays
+<li>Lambda functions
 
 <p>
 <strong>Week 1 | Day3 Key Objectives:</strong>
 <ul>
 
-<li>Python functions
+<li>Functions
 
-<li>Python List comprehension
-
-<li>Pre-work review
+<li>List, Dict & Set comprehension
 
 <p>
 <strong>Week 1 | Day2 Key Objectives:</strong>
 <ul>
 
-<li>Conda: Package and Environment Manager
+<li>Functions
 
-<li>Python Data Structures: Lists, Tuples, dictionaries, Sets
-
-<li>Python String Operations
+<li>Flow Control
 
 <p>
 <strong>Week 1 | Day1 Key Objectives:</strong>
@@ -112,7 +102,7 @@
 
 <li>Housekeeping Issues and Bootcamp Expectation
 
-<li>Command Line
+<li>Data Structures
 
 <li>Git & GitHub
 
@@ -149,56 +139,43 @@ It is Friday!! 🥳😎✌️
    <td><a href="https://docs.google.com/presentation/d/1Kg4LAjE1oDtG-FLdQSaR1hecYwiMX_5-jP9tt7QHlIU/edit?usp=sharing">[Presentation] Intro</a>
 <p>
 <br>
-<p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Command_Line/Activities/Activity_Command_Line.md">[Activity] Command Line</a>
+
 <p>
 <a href="https://docs.google.com/presentation/d/1dFYafjz3IV5pCaH-nNIeWKVeAjwfmhFn47S9ZrxE2pg/edit?usp=sharing">[Presentation] Git</a>
 <p>
 <a href="https://docs.google.com/presentation/d/1aun46umuf1hrXn5SfzzpvPNurrHeu3pODn1Jpm8_27o/edit?usp=sharing">[Presentation] Jupyter Notebooks</a>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Command_Line/Cheat_Sheet_MAC_Command_Line.pdf">[Cheat Sheet] Mac Command</a>
+<br>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Command_Line/Cheat_Sheet_Windows_Command_Prompt.pdf">[Cheat Sheet] Windows Command Line</a>
+<a href="https://github.com/repicao/IH_DA_FT_OCT_2023/blob/main/Class_Materials/Git_GitHub/Cheat_Sheet_Git_Education.pdf">[Cheat Sheet] Git Cheat Sheet</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_DA_FT_AUG_2023/blob/main/Class_Materials/Git_GitHub/Cheat_Sheet_Git_Education.pdf">[Cheat Sheet] Git Cheat Sheet</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Jupyter_Notebook/Cheat_Sheet_Markdown.md">[Cheat sheet] Markdown Cheat Sheet</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Jupyter_Notebook/Cheat_Sheet_Markdown.md">[Cheat sheet] Markdown Cheat Sheet</a>
-<p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Git_GitHub/Labs/Lab_Git.md">[LAB] Git</a>
-<p>
 <br>
-<p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Jupyter_Notebook/Labs/Lab_Juypter_Notebook.md">[LAB] Jupyter Notebook</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Command_Line/Labs/Lab_Bash.md">[LAB] (Optional) Bash</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1B0luhf2eWFIMaofY1mm2oT5jBZlg7RydRpV5wR1KwgQ/edit?usp=sharing">[Presentation] Conda</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Conda/Activities/Conda_Activity_Environments.md">[Activity] Conda Environment</a>
-<p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Conda/Cheat_Sheet_Conda.pdf">[Cheat Sheet] Conda Cheat Sheet</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Conda/Cheat_Sheet_Conda.pdf">[Cheat Sheet] Conda Cheat Sheet</a>
 <p>
 <a href="https://docs.google.com/presentation/d/1jmBBwxCiNZPdeDFAmt_cHQ4GPrC91vkkMmA-kj40Zck/edit?usp=sharing">[Presentation] Python Built-In Data Structures</a>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Python_Basics/Python_Built-In-Data_Structures.ipynb">[Notebook] Python Built-In Data Structures</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Python_Basics/Python_Built-In-Data_Structures.ipynb">[Notebook] Python Built-In Data Structures</a>
 <p>
 <a href="https://docs.google.com/presentation/d/1KBqPtwqEiQ-fwAWjGGZADZd6bGjhtfw_F3ltnOGd77k/edit?usp=sharing">[Presentation] Python String Operations</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Python_Basics/Python_String_Operations.ipynb">[Notebook] Python String Operations</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Python_Basics/Python_String_Operations.ipynb">[Notebook] Python String Operations</a>
 <p>
 <a href="https://github.com/data-bootcamp-v4/lab-python-data-structures">[Lab] Python Built-In Data Structures</a>
 <p>
@@ -209,13 +186,13 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Python_Basics/Python_Functions.ipynb">[Notebook] Python Functions</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Python_Basics/Python_Functions.ipynb">[Notebook] Python Functions</a>
 <p>
 <a href="https://docs.google.com/presentation/d/1UG5c6XPeEUmwHt4fh2lA6AzH1G7kcqjbF_pDZet6OHE/edit?usp=sharing">[Presentation] Python Lists Comprehension</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Python_Basics/List_Comprehensions.ipynb">[Notebook] Python Lists Comprehension</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Python_Basics/List_Comprehensions.ipynb">[Notebook] Python Lists Comprehension</a>
 <p>
 <a href="https://github.com/data-bootcamp-v4/lab-python-functions">[Lab] Python Functions</a>
    </td>
@@ -235,15 +212,13 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Numpy/Numpy_Python_Cheat_Sheet.pdf">[Cheat Sheet] Numpy Arrays</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Numpy/Numpy_Python_Cheat_Sheet.pdf">[Cheat Sheet] Numpy Arrays</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Numpy/Numpy.ipynb">[Notebook] Numpy Arrays</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Numpy/Numpy.ipynb">[Notebook] Numpy Arrays</a>
 <p>
 <br>
-<p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Numpy/Labs/Lab_Numpy_exercises_with_hints.md">[Lab] Numpy Arrays</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/14eFigQn9W98c3-KMQKOrGCZfEp15p-8sEGKRVR_V_K0/edit?usp=sharing">[Presentation] Python Map</a>
 <p>
@@ -253,13 +228,12 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Pandas/Pandas_Data_Frame_General-Part_1.ipynb">[Code Along] Intro to Pandas</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Pandas/Pandas_Data_Frame_General-Part_1.ipynb">[Code Along] Intro to Pandas</a>
 <p>
 <a href="https://docs.google.com/presentation/d/1OkpxrDnf3TF4hUDzXa8ZxFuz-JbQjfcXNSCkrItjyBw/edit?usp=sharing">Weekly Recap</a>
 <p>
 Weekly Retro
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/tree/main/Class_Materials/Pandas/Labs/Lab_Pandas_part_1.ipynb">[Lab] Pandas Exercises</a>
    </td>
   </tr>
 </table>
@@ -358,14 +332,14 @@ It is Friday!! 🥳😎✌️
 <a href="https://docs.google.com/presentation/d/1M9Feurk2rQfLSDfhSBZl2f4fJOGcWjahHQ2F-MWdT7w/edit?usp=sharing">[Presentation] Intro to Pandas</a>
 <p>
 <br>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Pandas/Pandas_Data_Frame_General-Part_1.ipynb">[Code Along] Pandas_Part_1</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Pandas/Pandas_Data_Frame_General-Part_1.ipynb">[Code Along] Pandas_Part_1</a>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Health_Care_for_All_Case_Study.md">[Healthcare For All Case Study]</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Health_Care_for_All_Case_Study.md">[Healthcare For All Case Study]</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Intro_To_Pandas_Healthcare For_All_Data_Cleaning.ipynb">[Code_Along] Healthcare For All Case Study</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Intro_To_Pandas_Healthcare For_All_Data_Cleaning.ipynb">[Code_Along] Healthcare For All Case Study</a>
 <p>
 <br>
 <p>
@@ -390,35 +364,35 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Data_Visualization/Matplotlib_Seaborn/Matplotlib_Seaborn_Complete.ipynb">[Notebook] EDA with plotting</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Data_Visualization/Matplotlib_Seaborn/Matplotlib_Seaborn_Complete.ipynb">[Notebook] EDA with plotting</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Data_Visualization/Matplotlib_Seaborn/Cheat_Sheet_Python_Matplotlib.pdf">[Cheat Sheet] Matplotlib</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Data_Visualization/Matplotlib_Seaborn/Cheat_Sheet_Python_Matplotlib.pdf">[Cheat Sheet] Matplotlib</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Data_Visualization/Matplotlib_Seaborn/Cheat_Sheet_Python_Seaborn.pdf">[Cheat Sheet] Seaborn</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Data_Visualization/Matplotlib_Seaborn/Cheat_Sheet_Python_Seaborn.pdf">[Cheat Sheet] Seaborn</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_3</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_3</a>
    </td>
    <td>[Linear Regression Overview]
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Intro_To_Pandas_Healthcare%20For_All_Pipelining.ipynb">[Code_Along] Data_Pipelining</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Intro_To_Pandas_Healthcare%20For_All_Pipelining.ipynb">[Code_Along] Data_Pipelining</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_4</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_4</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1mJ4YshSRjHqRMqoudwPGc38sS-TpXC5A5IImibLvdBw/edit?usp=sharing">[Presentation] Pandas Joining, Grouping</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Pandas/Pandas_Data_Frame_General-3.ipynb">[Notebook] Pandas contd</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Pandas/Pandas_Data_Frame_General-3.ipynb">[Notebook] Pandas contd</a>
 <p>
 <br>
 <p>
@@ -438,7 +412,7 @@ Weekly Retro
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Pandas/Labs/Lab_Pandas_Grouping_Data_Vehicles.ipynb">[Lab Pandas Group By]</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Pandas/Labs/Lab_Pandas_Grouping_Data_Vehicles.ipynb">[Lab Pandas Group By]</a>
    </td>
   </tr>
 </table>
@@ -530,23 +504,23 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_Intro_Sql.md">[LAB] Lab | SQL Intro</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_Intro_Sql.md">[LAB] Lab | SQL Intro</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Basics_Selection_Aggregation.md">[LAB] Lab | SQL Queries</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Basics_Selection_Aggregation.md">[LAB] Lab | SQL Queries</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1W2cFbuvvTffAPWqsvmx0-L_zq--KXUUvItyHC22U4sk/edit?usp=sharing">[Presentation] Joins & ERD</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Join_Two_Tables.md">[Lab] Sql Join two tables</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Join_Two_Tables.md">[Lab] Sql Join two tables</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Join_Multi_Tables.md">[Lab] (Optional) Sql Join multiple tables</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Join_Multi_Tables.md">[Lab] (Optional) Sql Join multiple tables</a>
    </td>
-   <td><a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/SQL_MYSQL/Activities/Activities.md">[Activity ERD]</a>
+   <td><a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/SQL_MYSQL/Activities/Activities.md">[Activity ERD]</a>
 <p>
 <br>
 <p>
@@ -554,7 +528,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Subqueries.md">[Lab] SQL Sub Queries</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Subqueries.md">[Lab] SQL Sub Queries</a>
    </td>
    <td>[SQL Having clause]
 <p>
@@ -572,11 +546,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Data_Visualization/Tableau/Lab/Lab_Tableau_Customer_Analysis_Case_Study.md">[LAB] Tableau</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Data_Visualization/Tableau/Lab/Lab_Tableau_Customer_Analysis_Case_Study.md">[LAB] Tableau</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_GroupBy.md">[Lab] (Optional) SQL Group By</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_GroupBy.md">[Lab] (Optional) SQL Group By</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1MdUfA565cyS3f0pzfeaOeKBQPyCDynWDq_OTN2RXkKE/edit?usp=sharing">[Presentation] Tableau </a>
 <p>
@@ -586,7 +560,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Data_Visualization/Tableau/Activities/Activity_KPI.md">[Activity] KPIs</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Data_Visualization/Tableau/Activities/Activity_KPI.md">[Activity] KPIs</a>
 <p>
 <br>
 <p>
@@ -598,7 +572,7 @@ Weekly Retro
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Data_Visualization/Tableau/Lab/Lab_Tableau_Dashboards.md">[LAB] Tableau Dashboard</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Data_Visualization/Tableau/Lab/Lab_Tableau_Dashboards.md">[LAB] Tableau Dashboard</a>
    </td>
   </tr>
 </table>
@@ -708,7 +682,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Transformation.md">[LAB] Lab | Data Transformation</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Transformation.md">[LAB] Lab | Data Transformation</a>
 <p>
 <br>
 <p>
@@ -718,21 +692,21 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Intro_To_Pandas_Healthcare%20For_All_Modeling.ipynb">[Notebook] Linear Regression</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Intro_To_Pandas_Healthcare%20For_All_Modeling.ipynb">[Notebook] Linear Regression</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Lab | Model Fitting and Evaluating</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Lab | Model Fitting and Evaluating</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1pkcDSqwrQprqy2CH1DK4MwIUTdEtyL1THbbCn9SrsQs/edit?usp=sharing">[Presentation] Improving Model Accuracy</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Intro_To_Pandas_Healthcare%20For_All_Modeling.ipynb">[Notebook] Linear Regression</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Intro_To_Pandas_Healthcare%20For_All_Modeling.ipynb">[Notebook] Linear Regression</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Model Evaluation and Improving</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Model Evaluation and Improving</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1dgspDn-tOqRjcJK6YN-SZWPZLHkMrAvSduj6iqqXxf4/edit?usp=sharing">[Presentation] Sampling Distributions </a>
 <p>
@@ -742,15 +716,15 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Statistics/Hypothesis_Testing_Structure.ipynb">[Notebook] Hypothesis One Sample Test</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Statistics/Hypothesis_Testing_Structure.ipynb">[Notebook] Hypothesis One Sample Test</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Model Evaluation and Improving</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Model Evaluation and Improving</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
    </td>
    <td><a href="https://kahoot.it/">Kahoot</a>
 <p>
@@ -758,7 +732,7 @@ It is Friday!! 🥳😎✌️
 <a href="https://docs.google.com/presentation/d/1an2XtB3eGCGSjN4xAqdieNDsapJ4IvxL3K8ApQRWOV8/edit#slide=id.g205afdc590b_0_166">[Presentation] A/B Testing</a>
 <p>
 <br>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Statistics/AB_Testing.ipynb">[Notebook] A/B Testing</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Statistics/AB_Testing.ipynb">[Notebook] A/B Testing</a>
 <p>
 <br>
 <p>
@@ -770,11 +744,11 @@ Weekly Retro
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/tree/main/Class_Materials/MidTerm_Project">Midterm Project Intro/ Briefing</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/tree/main/Class_Materials/MidTerm_Project">Midterm Project Intro/ Briefing</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
    </td>
   </tr>
 </table>
@@ -923,7 +897,7 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Web_Scraping/Case_Study_Gnod_Song_Recommender.md">[Case Study] Gnod Song Recommender</a>
+   <td><a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Web_Scraping/Case_Study_Gnod_Song_Recommender.md">[Case Study] Gnod Song Recommender</a>
 <p>
 <br>
 <p>
@@ -935,7 +909,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Web_Scraping/Web_Scraping.ipynb">[Notebook] Web Scraping Code Along</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Web_Scraping/Web_Scraping.ipynb">[Notebook] Web Scraping Code Along</a>
 <p>
 <br>
 <p>
@@ -945,11 +919,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://docs.google.com/presentation/d/1l_yq7e0n13qONhLhr43sTCznWxP05C9u/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project</a> 
    </td>
-   <td><a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Web_Scraping/2_Web_Scraping.ipynb">[Notebook] Web Scraping Multiple Pages Code Along</a>
+   <td><a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Web_Scraping/2_Web_Scraping.ipynb">[Notebook] Web Scraping Multiple Pages Code Along</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Web_Scraping/Lab/Lab_Web_Scraping_1st_Prototype_Expansion.md">[LAB] Song Recommender Project </a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Web_Scraping/Lab/Lab_Web_Scraping_1st_Prototype_Expansion.md">[LAB] Song Recommender Project </a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1-L1RsIMYd8ddY3p3Sghu9DSqA8zkBCGYhSUM8IxoV5Y/edit?usp=sharing">[Presentation] APIs</a>
 <p>
@@ -959,15 +933,15 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Web_Scraping/Intro_APIs_Structure.ipynb">[Notebook] APIs</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Web_Scraping/Intro_APIs_Structure.ipynb">[Notebook] APIs</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Web_Scraping/Spotify_Structure.ipynb">[Notebook] Spotipy</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Web_Scraping/Spotify_Structure.ipynb">[Notebook] Spotipy</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Web_Scraping/Lab/Lab_Song_Recommender_APIs.md">[LAB] Song Recommender Project </a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Web_Scraping/Lab/Lab_Song_Recommender_APIs.md">[LAB] Song Recommender Project </a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1bbqadjMUCdxlvVcLdT-U3CX1fUykmSpDU4ovtvszXHw/edit?usp=sharing">[Presentation] Clustering using K-means</a>
 <p>
@@ -977,7 +951,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Machine_Learning/Unsupervised_Learning/KMeans_Structure.ipynb">[Notebook] K-Means Code Along</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Machine_Learning/Unsupervised_Learning/KMeans_Structure.ipynb">[Notebook] K-Means Code Along</a>
 <p>
 <br>
 <p>
@@ -1083,11 +1057,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Data%20Processing/Data_PreProcessing_Feature_Selection.ipynb">[Notebook] Feature Selection</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Data%20Processing/Data_PreProcessing_Feature_Selection.ipynb">[Notebook] Feature Selection</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Data%20Processing/P-Value.ipynb">[Notebook] Feature Selection using P-Value</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Data%20Processing/P-Value.ipynb">[Notebook] Feature Selection using P-Value</a>
 <p>
 <br>
 <p>
@@ -1095,7 +1069,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Comparing_Models_KNN_Feature_Selection._Embedded_Methods.md">[LAB] Model_Comparison</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Comparing_Models_KNN_Feature_Selection._Embedded_Methods.md">[LAB] Model_Comparison</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1dJcP7kXvI8qJ3iuPoj24k_ghSaNgnzylaj1EzQAzIhA/edit?usp=sharing">[Presentation] KNN</a>
 <p>
@@ -1109,25 +1083,25 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Supervised_Learning_KNN_Housing_Prices%20KNN.ipynb">[Notebook] KNN</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Supervised_Learning_KNN_Housing_Prices%20KNN.ipynb">[Notebook] KNN</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Supervised_Learning_Classification_Logistic_Regression.ipynb">[Notebook] Logistic Regression</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Supervised_Learning_Classification_Logistic_Regression.ipynb">[Notebook] Logistic Regression</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[LAB] Logistic Regression</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[LAB] Logistic Regression</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1J31wU0za-DoGOqBVaD7uqC1E9kWSz3-TWOys55trIyA/edit?usp=sharing">[Presentation] Decision Trees</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Supervised_Learning_Decision_Trees.ipynb">[Notebook] Decision Trees</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Supervised_Learning_Decision_Trees.ipynb">[Notebook] Decision Trees</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Decision_Trees</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Decision_Trees</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1TLksCZKyo_NxtMMUoCHHDMnjaFDp7138QrCEYXD_tLo/edit?usp=sharing">[Presentation ] Cross Validation</a>
 <p>
@@ -1137,11 +1111,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Cross_Validation.ipynb">[Notebook] Cross Validation</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Cross_Validation.ipynb">[Notebook] Cross Validation</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Data%20Processing/Handling_Imbalanced_Data.ipynb">[Notebook] Handling Imbalanced Data sets</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Data%20Processing/Handling_Imbalanced_Data.ipynb">[Notebook] Handling Imbalanced Data sets</a>
 <p>
 <br>
 <p>
@@ -1149,7 +1123,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Cross Validation & Resampling</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Cross Validation & Resampling</a>
    </td>
    <td><a href="http://kahoot.it">Kahoot</a>
 <p>
@@ -1167,11 +1141,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Random_Forest.ipynb">[Notebook] Random Forest</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Random_Forest.ipynb">[Notebook] Random Forest</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Random_Forest_Hyper_Parameter_Tunning.ipynb">[Notebook] Hyper Parameter Tuning</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Random_Forest_Hyper_Parameter_Tunning.ipynb">[Notebook] Hyper Parameter Tuning</a>
 <p>
 <br>
 <p>
@@ -1179,11 +1153,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Random Forest & Hyper Parameter Tuning</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Random Forest & Hyper Parameter Tuning</a>
   
   <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Final_Project/Readme.md">Final Project Kick off</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Final_Project/Readme.md">Final Project Kick off</a>
 <p>
 <br>
    </td>

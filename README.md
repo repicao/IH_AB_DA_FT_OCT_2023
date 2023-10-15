@@ -171,13 +171,12 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Conda/Cheat_Sheet_Conda.pdf">[Cheat Sheet] Conda Cheat Sheet</a>
 <p>
-<a href="https://docs.google.com/presentation/d/1jmBBwxCiNZPdeDFAmt_cHQ4GPrC91vkkMmA-kj40Zck/edit?usp=sharing">[Presentation] Python Built-In Data Structures</a>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Python_Basics/1.1_data_structures.ipynb">[Notebook] Python Built-In Data Structures</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Python_Basics/1.2_flow_control.ipynb">[Notebook] Flow Control</a>
 <p>
-<br>
+<a href="https://docs.google.com/presentation/d/1QDrvALgEfzewKlyI5t8Iq5mieXNxb1nQl8OdD7UV9yw/edit?usp=sharing">[Presentation] Python Functions</a>
 <p>
-<a href="https://github.com/data-bootcamp-v4/lab-python-data-structures">[Lab] Python Built-In Data Structures</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Python_Basics/1.3_functions.ipynb">[Notebook] Functions</a>
 <p>
 <br>
 <p>

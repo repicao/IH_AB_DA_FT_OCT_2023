@@ -181,7 +181,7 @@ It is Friday!! 🥳😎✌️
 <br>
 <p>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1QDrvALgEfzewKlyI5t8Iq5mieXNxb1nQl8OdD7UV9yw/edit?usp=sharing">[Presentation] Python Functions</a>
+   <td>
 <p>
 <br>
 <p>
@@ -203,6 +203,9 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://docs.google.com/presentation/d/1fupIWSyoyC_VunN2HRWOyRpO5CrRAmRBurW99WZFUHs/edit?usp=sharing">[Presentation] Lambda Functions</a>
 <p>
+<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Python_Basics/1.6_error_handling.ipynb">[Notebook] Error Handling</a>
+<p>
+  <br>
 <a href="https://docs.google.com/presentation/d/1AuMxc8qBaTQwLv-b6_xFk-0kclhznaNf_ayS7uEgdC4/edit?usp=sharing">[Presentation] Data Analysis Intro</a>
 <p>
 <a href="https://docs.google.com/presentation/d/1IHtD509p-WdOiUUq8HsVA8ogC3s-Bo9SYw4kbSjEUMA/edit?usp=sharing">[Presentation] Data Analysis Process</a>

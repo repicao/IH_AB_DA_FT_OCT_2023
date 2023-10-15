@@ -169,7 +169,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://docs.google.com/presentation/d/1jmBBwxCiNZPdeDFAmt_cHQ4GPrC91vkkMmA-kj40Zck/edit?usp=sharing">[Presentation] Python Built-In Data Structures</a>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_OCT_2023/blob/main/Class_Materials/Python_Basics/Python_Built-In-Data_Structures.ipynb">[Notebook] Python Built-In Data Structures</a>
+<a href="https://github.com/data-bootcamp-v4/lessons/blob/main/1_intro_to_python/1.1_data_structures.ipynb">[Notebook] Python Built-In Data Structures</a>
 <p>
 <a href="https://docs.google.com/presentation/d/1KBqPtwqEiQ-fwAWjGGZADZd6bGjhtfw_F3ltnOGd77k/edit?usp=sharing">[Presentation] Python String Operations</a>
 <p>

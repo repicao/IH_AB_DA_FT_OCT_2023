@@ -2,6 +2,7 @@
 
 In this lab you will practice and start getting comfortable with basic plots in Tableau. 
 
+- Plot histograms for the variables "Income" and "Total Claim Amount". Assess if they ressemble a normal distribution.
 - Show a plot of the total number of responses.
 - Show a plot of the response by the sales channel.
 - Show a plot of the response by the total claim amount.

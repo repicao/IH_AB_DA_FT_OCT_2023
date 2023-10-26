@@ -1,9 +1,19 @@
 ## Lab Tableau
 
-Please repeat the Exploratory Data Analysis plotting part in the [Customer analysis Case Study](https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities.md) that you worked on in the previous labs.  The plotting part includes mainly Activity 4. This time will use Tableau instead of using python plotting libraries. 
+In this lab you will practice and start getting comfortable with basic plots in Tableau. 
 
-(Optional) from Activity 3 , please using Tableau try to  <b>Plot the Correlation Heatmap</b>. You might find it easier to import the correlation matrix that you get from pandas as it is as csv file into Tableau.
 
-Important:  Data csv file to be imported to Tableau can be found in this [Link](https://drive.google.com/drive/u/0/folders/1wBuBZnb36loyAkJgzHRo4vhJbPWqUXqg)
+    - Show a plot of the total number of responses.
+    - Show a plot of the response by the sales channel.
+    - Show a plot of the response by the total claim amount.
+    - Show a plot of the response by income.
+
+    (Optional) <b>Plot the Correlation Heatmap</b>.
+    
+    (Optional) Plot any interesting findings/insights (minimum three) that describe some interesting facts about your data set 
+
+
+
+
 
 

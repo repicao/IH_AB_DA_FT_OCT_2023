@@ -16,7 +16,7 @@ Begin by visually examining distributions (histograms) of the numerical features
 - Use minmax transform to bring varA's values into the range [0,1].
 - Check that varA has been rescaled using a displot or a histogram
 2. varB
-- Use StandardScaler to standardize the variable or PowerTransform to reduce its skew.
+- Use PowerTransformer to reduce its skew (StandardScaler is included!).
 - Check that the result has zero mean, unit variance, and reduced skew using mean(), std(), and a plot of the PDF.
 
 Hints:

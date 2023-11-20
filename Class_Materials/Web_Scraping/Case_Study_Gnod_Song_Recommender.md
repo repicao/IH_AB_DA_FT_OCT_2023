@@ -8,7 +8,7 @@ You have been hired as a Data Analyst for "Gnod".
 
 "Gnod" is a small company, and its only revenue stream so far are Ads in the site. In the future, they would like to explore partnership options with music apps (such as _Deezer_, _Soundcloud_ or even _Apple Music_ and _Spotify_). However, for that to be possible, they need to expand and improve their recommendations.
 
-That's precisely where you come. They have hired you as a Data Analyst, and they expect you to bring a mix of technical expertise and business mindset to the table.
+That's precisely where you come in. They have hired you as a Data Analyst, and they expect you to bring a mix of technical expertise and business mindset to the table.
 
 Jane, CTO of Gnod, has sent you an email assigning you with your first task.
 

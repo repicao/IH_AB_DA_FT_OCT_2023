@@ -27,6 +27,7 @@ Round 1
  Round 2
   - Fit a Decision Tree Classifier on the training data.
   - Check the accuracy on the test data.
+  - Create a function that takes a list of integers as a parameter, iterates over the range as depths, and prints the performance log of the decision tree for each depth
 
  Round 3
  -  apply K-fold cross validation on your models before and check the model score.

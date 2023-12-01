@@ -2,7 +2,27 @@
 
 
 ### Purpose
-The aim of the final Project is to present the learners with a final opportunity to put their newly acquired skills into practice.
+The goal of this project is for you to apply your data science or data analytics skills by completing an end-to-end analysis on a real-world dataset.
+
+The project will also assist you in demonstrating your proficiency in the skills required for your desired career path and developing your portfolio to showcase your abilities to potential recruiters.
+
+For this project, you have the option to work either individually or in pairs, depending on your interests and goals. If you and a partner share a common interest and have ambitious plans for what you want to achieve, working in pairs is a great way to collaborate and tackle more complex challenges. However, please note that if you choose to work in pairs, we expect a higher level of output and quality.
+
+If you're struggling to come up with a topic, we have provided a list of datasets for you to consider. However, we highly recommend that you explore and select a topic and dataset that personally interests you, as this will make the project more engaging and rewarding.
+
+You may select one of two case studies, each designed to focus on specific skills and cater to your interests and career aspirations. This will enable you to tailor the project to your individual needs and provide a valuable learning opportunity that aligns with your long-term goals.
+
+**Case Study 1- Data Science End to End Project**
+
+The goal is to build, on top of a business case, a predictive model in Python.
+
+This project will require you to select a business case of your choice and iterate through the whole data science process, by doing data collection, data cleaning and wrangling, exploratory data analysis, feature engineering, preprocessing, model selection, evaluation and data visualization. The project should be structured as a complete pipeline that includes every step of the process.
+
+**Case Study 2 - Data Analytics End to End Project**
+
+The goal is to do data analysis and build a dashboard for decision making, using mainly SQL, some Python, and a visualization tool such as Tableau or Power BI.
+
+This project will require you to select a business case of your choice and apply the full data analysis process to it, from data collection, data cleaning and wrangling, feature engineering, statistical analysis, to data visualization and dashboards. The project should be structured as a complete pipeline that includes every step of the process.
 
 ### Timeline 
 Turn in all deliverables and meet all requirements by the end of Week 9

@@ -8,7 +8,7 @@ The project will also assist you in demonstrating your proficiency in the skills
 
 For this project, you have the option to work either individually or in pairs, depending on your interests and goals. If you and a partner share a common interest and have ambitious plans for what you want to achieve, working in pairs is a great way to collaborate and tackle more complex challenges. However, please note that if you choose to work in pairs, we expect a higher level of output and quality.
 
-If you're struggling to come up with a topic, we have provided a list of datasets for you to consider. However, we highly recommend that you explore and select a topic and dataset that personally interests you, as this will make the project more engaging and rewarding.
+We highly recommend that you explore and select a topic and dataset that personally interests you, as this will make the project more engaging and rewarding.
 
 You may select one of two case studies, each designed to focus on specific skills and cater to your interests and career aspirations. This will enable you to tailor the project to your individual needs and provide a valuable learning opportunity that aligns with your long-term goals.
 
@@ -31,14 +31,14 @@ Turn in all deliverables and meet all requirements by the end of Week 9
 
 ### Learning Objectives: 
 
-- Scope and manage a full data analysis project with minimal supervision
+- Scope and manage a full data project with minimal supervision
 - Look for interesting challenges to solve using available data
 - Identify the best approach to solve business problems using data analytics skills
 - Use Tableau or Python visual libraries(or any) at a professional level to visualize insights and present your work
 - Select the algorithm, statistical methods or technical building blocks that give the best results
 
 ### Rules
-- Team of two people are recommended and is the maximum number allowed per team. An exception might be applied after the approval from the teaching team.
+- Team of two people is recommended and is the maximum number allowed per team. An exception might be applied after the approval from the teaching team.
 - Every team has:
   - 7 minutes of presentation time (+1 in case of bonus point)
   - 5 minutes to go into details. This could be code, tableau worksheets, etc.

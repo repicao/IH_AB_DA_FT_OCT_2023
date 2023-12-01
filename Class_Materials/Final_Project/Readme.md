@@ -19,8 +19,11 @@ Turn in all deliverables and meet all requirements by the end of Week 9
 
 ### Rules
 - Team of two people are recommended and is the maximum number allowed per team. An exception might be applied after the approval from the teaching team.
-- Every team has 7 minutes of presentation time (unless you have a bonus point) and 5 mins for Q&A/feedback.
-- You should come prepared with every project artifacts(notebooks, Tableau worksheets, etc) in case of questions that need clarification.
+- Every team has 
+ - 7 minutes of presentation time (+1 in case of bonus point)
+ - 5 minutes to go into details. This could be code, tableau worksheets, etc.
+ - 5 minutes for Q&A
+
 --- 
 
 ## Datasets
@@ -69,7 +72,7 @@ Turn in all deliverables and meet all requirements by the end of Week 9
 ## Project Stages
 
 
-+ Source, Analyze and identify one dataset to work with
++ Source, Analyze and identify a dataset to work with
 + Present your business problem to the teaching staff. 
    + "Elevator Pitch" Challenge - 1 minute presentation of the idea*
 + Plan and organize your project roadmap
